@@ -27,7 +27,7 @@ It has a pleathora of hints, tips and answers to help you ensure you get the mos
 - [ ] Course - [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) on edX or [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University (or both, your choice) :hourglass_flowing_sand:
 - [ ] The FCC Backend Certification - all projects, ignore the tutorials and just read the official docs if you want.
 - [ ] Book - [DOM Enlightenment](http://domenlightenment.com/)
-- [ ] Project - Portfolio from the frontend section of FCC
+- [ ] Project - Portfolio from the frontend section of FCC :hourglass_flowing_sand:
 - [ ] Book - [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [ ] Project - Clone the Netflix interface using React, Angular, or Vue - pulling data from [the Movie DB API](https://www.themoviedb.org/documentation/api) or an API in a backend you create yourself.
 - [ ] Book - [Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf)
