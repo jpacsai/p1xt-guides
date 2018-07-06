@@ -2,6 +2,29 @@
 
 Typically this will only list resource additions and deletions. The goal is always to minimize changes to the curriculum, so that someone following it isn't trying to 'hit a moving target'. However, from time to time, a resource becomes no longer available, and the curriculum will be modified to accommodate a replacement resource.
 
+**April 26, 2018**
+Swapped the Natural Language Processing course from Michigan for the Robotics Fundamentals course from Penn. There wasn't a similarly outstanding NLP course available so I replaced it with an outstanding course from a similarly interesting field taught at a similarly advanced level of rigor.
+
+**April 2, 2018**
+Added Computer Science and Backend Development - Java Focus Guide.
+
+**March 31, 2018**
+Swapped the OSU Calculus courses from Coursera (they're being decommissioned) for MITOCW Calculus Courses.
+
+**March 6, 2018**
+Added [Software Development Capstone Project](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx) to the cs-wd and wd-cs guides. It's the next course in the series and became available today.
+
+**January 25, 2018** 
+
+Added Vue topic guide.
+Added React topic guide.
+
+
+**January 24, 2018** 
+
+Added Angular topic guide.
+
+
 **January 03, 2018**
 
 Added [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) to the cs-wd and wd-cs guides. It's the next course in the series and becomes available on the 9th of January.

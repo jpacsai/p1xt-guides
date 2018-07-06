@@ -9,6 +9,7 @@ Web development, software engineering, games programming, mobile app development
   * [Get Job ready with 13 projects, 2 courses, and 10 books](#get-job-ready-with-13-projects-2-courses-and-10-books)
   * [Job Ready Guide - JavaScript Edition 2.0](#job-ready-guide---javascript-edition-20)
   * [Job Ready Guide - Python Edition](#job-ready-guide---python-edition)
+  * [Computer Science and Backend Development - Java Focus](#computer-science-and-backend-development---java-focus)
   * [Computer Science and Web Development - comprehensive](#computer-science-and-web-development---comprehensive)
   * [Web Development with Computer Science Foundations - comprehensive](#web-development-with-computer-science-foundations---comprehensive)
   * [Data Science - comprehensive](#data-science---comprehensive)
@@ -16,7 +17,10 @@ Web development, software engineering, games programming, mobile app development
   * [Native Android Programming - comprehensive](#native-android-programming---comprehensive)
   * [Topic Specific Guides](#topic-specific-deep-dives)
     * regex
-* [Practice/Speedrun Project lists](#practice-speedrun)
+    * Angular
+    * Vue
+    * React
+* [Practice/Speedrun Project lists - interview prep, portfolio building, practice for programming competitions](#practice-speedrun)
 * [Frequently Asked Questions](#frequently-asked-questions)
 * [Attribution](#attribution)
 
@@ -36,6 +40,10 @@ If you're interested in seeing how much Computer Science you can learn in a year
 * Job Ready Python - September, 2017
 * Job Ready JavaScript 2.0 - September, 2017
 * Practice/Speedrun Project lists - October, 2017
+* Topic Guide: Angular - January, 2018
+* Topic Guide: Vue - January, 2018
+* Topic Guide: React - January, 2018
+* Computer Science and Backend Development - Java Focus - April 2018
 
 A few people suggested making it possible to buy me a coffee as thanks - so please feel free but not obligated to
 
@@ -67,6 +75,18 @@ A JavaScript-centric version of the Job Ready Guide, narrowly focused on buildin
 A Python-centric version of the Job Ready Guide, narrowly focused on building the skills likely necessary to beeline to "job ready" Python Developer.
 
 [go to the Job Ready Guide - Python Edition](./job-ready-python-edition.md)
+
+### Computer Science and Backend Development - Java Focus
+Deep dive into Computer Science with a focus on Java
+
+_"not in a rush" plan, with resources to increase the depth of knowledge gained in general computer science topics plus
+sufficient implementation practice to confidently enter the industry as a Software Engineer_
+
+**Goal:** proficient software engineer, well versed 
+in the Java Programming language in particular, and
+Computer Science in general
+
+[go to the Computer Science and Backend Development - Java Focus Guide](./cs-java-focus.md)
 
 ### Computer Science and Web Development - comprehensive
 
@@ -128,10 +148,13 @@ to ensure you're prepared to tackle any Android development task.
 Comprehensive review of narrow topics.
 
 * [Regex Guide](./topic-guides/regex.md)
+* [Angular Guide](./topic-guides/angular.md)
+* [Vue Guide](./topic-guides/vue.md)
+* [React Guide](./topic-guides/react.md)
 
 ## Practice Speedrun
 
-Topic specific practice, to build out a portfolio, gain additional experience in an area, or for a preset list of assignments to tackle for a hands-on boosting speedrun to drive your ability to the next level:
+Topic specific practice, to build out a portfolio, gain additional experience in an area, or for a preset list of assignments to tackle for a hands-on boosting speedrun to drive your ability to the next level (check the Algorithms section for interview prep or practice for programming competitions in Python, Java, C++ or JavaScript):
 
 * [Algorithms and Data Structures](./speedrun-practice/algorithms.md)
 * [Android](./speedrun-practice/android.md)

@@ -8,11 +8,11 @@ A guide primarily focused on Frontend development, but including just enough of 
 - [Tier 4 - Wrap everything up and prep for interviews](#tier-4---wrap-everything-up-and-prep-for-interviews)
 - [What now?](#what-now-)
 - [FAQ for this guide](#faq-for-this-guide)
-  * [Why is it so much longer than the original Job Ready Guide?](#why-is-it-so-much-longer-than-the-original-job-ready-guide-)
-  * [Why so much Math and Algorithms?](#why-so-much-math-and-algorithms-)
-  * [Where should I deploy my code?](#where-should-i-deploy-my-code-)
-  * [Why the change in Project selections?](#why-the-change-in-project-selections-)
-  * [Do you have a list of helpful links to point me in the right direction if I need a productive break, or need to consult the official docs while I'm working through all this?](#do-you-have-a-list-of-helpful-links-to-point-me-in-the-right-direction-if-i-need-a-productive-break--or-need-to-consult-the-official-docs-while-i-m-working-through-all-this-)
+  * [Why is it so much longer than the original Job Ready Guide?](#why-is-it-so-much-longer-than-the-original-job-ready-guide)
+  * [Why so much Math and Algorithms?](#why-so-much-math-and-algorithms)
+  * [Where should I deploy my code?](#where-should-i-deploy-my-code)
+  * [Why the change in Project selections?](#why-the-change-in-project-selections)
+  * [Do you have a list of helpful links to point me in the right direction if I need a productive break, or need to consult the official docs while I'm working through all this?](#do-you-have-a-list-of-helpful-links-to-point-me-in-the-right-direction-if-i-need-a-productive-break--or-need-to-consult-the-official-docs-while-i-m-working-through-all-this)
 
 
 ---
@@ -31,14 +31,14 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 
 ## Tier 1 - Intro to Programming 
 **Goal:** Become Proficient with HTML, CSS and JavaScript.
-- [x]  Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)    
-- [ ]  Course - [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)  on edX :hourglass_flowing_sand: 
-- [x]  Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)  
-- [ ]  Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/) :hourglass_flowing_sand:   
+- [ ]  Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)    
+- [ ]  Course - [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)  on edX
+- [ ]  Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) 
+- [ ]  Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)    
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement the frontend of a website with it as your inspiration (do not use its assets)
 - [ ]  Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
 - [ ]  Project: [CSS Zen Garden](http://www.csszengarden.com/) - implement your own CSS design for the competition
-- [ ]  Course: [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) :hourglass_flowing_sand: 
+- [ ]  Course: [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) 
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement the frontend of a website with it as your inspiration (do not use its assets)
 - [ ]  Book: [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)   
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement the frontend of a website with it as your inspiration (do not use its assets)

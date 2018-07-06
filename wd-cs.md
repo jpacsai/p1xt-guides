@@ -30,14 +30,15 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 * [ ] Course: [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
 * [ ] Course: [Software Construction: Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x)
 * [ ] Course: [Software Construction: Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x)
-* [ ] [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
+* [ ] Course: [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
+* [ ] Course: [Software Development Capstone Project](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx)
 * [ ] Book: [DOM Enlightenment](http://domenlightenment.com/)
 * [ ] Project: Simon Game from the frontend section of FCC
 * [ ] Project: Read up on [Gulp](http://gulpjs.com/) - try to incorporate it into your workflow if you aren't using it regularly already
 * [ ] Project: Read up on [Mocha](https://mochajs.org/) - try to use it to test your JavaScript, every chance you get
 * [ ] Course - [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) on edX or [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University (or both, your choice)
 * [ ] The FCC Backend Certification - all projects, ignore the tutorials and just read the official docs if you want.
-* [ ] Course: [Calculus One](https://www.coursera.org/learn/calculus1)
+* [ ] Course: [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
 * [ ] Book: [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [ ] Project: Clone [this](https://blackrockdigital.github.io/startbootstrap-creative/) landing page
 * [ ] Course: [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
@@ -63,7 +64,7 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 * [ ] Project: Pick a template from [here](http://www.free-css.com/free-css-templates) and create a new template with it as your inspiration (do not use its assets)
 * [ ] Project: Clone Reddit
 * [ ] Project: Complete all ES6 Katas [here](http://es6katas.org/)
-* [ ] Course: [Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus)
+* [ ] Course: [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
 * [ ] Project: Complete all Classic Puzzles - Hard on [CodinGame](https://www.codingame.com/) in JavaScript
 * [ ] Project: Clone [this Admin template](http://rubix410.sketchpixy.com/ltr/dashboard)
 * [ ] Project: Pick a template from [here](http://www.free-css.com/free-css-templates) and create a new template with it as your inspiration (do not use its assets)
@@ -82,7 +83,7 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 * [ ] Course: [Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x)
 * [ ] Course: [Artificial Intelligence](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x#!)
 * [ ] Course: [Machine Learning](https://www.coursera.org/learn/machine-learning)
-* [ ] Project: Design, implement, test, and deploy a game that is playable on the web, using the technologies of your choice. The only criteria are that it be playable online, and that it inculde a substantial AI component.
+* [ ] Project: Design, implement, test, and deploy a game that is playable on the web, using the technologies of your choice. The only criteria are that it be playable online, and that it include a substantial AI component.
 * [ ] Project: Complete all Classic Puzzles - Very Hard on [CodinGame](https://www.codingame.com/) in JavaScript
 * [ ] Project: Create a node module that will convert markdown to properly formatted html
 * [ ] Project: Create an npm module that bootstraps a fullstack application, with Node.js on the backend, and the SPA library/framework of your choice on the frontend. Include a full test suite and comprehensive build processes. Publish it to NPM.
