@@ -45,7 +45,7 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 * [ ] Project: Build the Pomodoro project from the FCC frontend curriculum
 * [ ] Article: Read [Algorithms and Flowcharts](http://www.academia.edu/7857144/ALGORITHMS_AND_FLOWCHARTS) and then familiarize yourself with [Pencil](http://pencil.evolus.vn/) ... start flowcharting complex portions of your code logic as part of your documentation
 * [ ] Project: Clone the front page of [this](https://urbanarmorgear.com/) website modifying it to highlight a different product or industry. Make special note of the secondary navigation bar at the top. Implementing that is the highlight of this project.
-* [ ] Project: Complete all Classic Puzzles - Easy on [CodinGame](https://www.codingame.com/) in JavaScript
+* [ ] Project: Complete all Classic Puzzles - Easy on [CodinGame](https://www.codingame.com/) in JavaScript ⏳
 * [ ] Book: [Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf)
 * [ ] Project: Complete all challenges from the [Code Jam Qualification Round 2015](https://code.google.com/codejam/contest/6224486/dashboard)
 * [ ] Project: Pick a template from [here](http://www.free-css.com/free-css-templates) and create a new template with it as your inspiration (do not use its assets)
