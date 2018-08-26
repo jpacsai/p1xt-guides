@@ -10,7 +10,7 @@ Web development, software engineering, games programming, mobile app development
   * [Job Ready Guide - JavaScript Edition 2.0](#job-ready-guide---javascript-edition-20)
   * [Job Ready Guide - Python Edition](#job-ready-guide---python-edition)
   * [Computer Science and Backend Development - Java Focus](#computer-science-and-backend-development---java-focus)
-  * [Computer Science and Web Development - comprehensive](#computer-science-and-web-development---comprehensive)
+  * [**Computer Science and Web Development - comprehensive**](#computer-science-and-web-development---comprehensive) 👈
   * [Web Development with Computer Science Foundations - comprehensive](#web-development-with-computer-science-foundations---comprehensive)
   * [Data Science - comprehensive](#data-science---comprehensive)
   * [Video Game Programming - comprehensive foundations](#video-game-programming---comprehensive-foundations)
